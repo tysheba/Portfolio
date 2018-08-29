@@ -1,6 +1,6 @@
 /** Dark Color Scheme **/
 
-body.dark { background-color: #141414; color: #878787; }
+body.dark { background-color: #141414; color: #878787; background: url("../images_post/accounting-blur.jpg");}
 .dark #main { border-color: #1e1e1e; background: #282828; }
 .dark .section_header { border-color: #3b3b3b; }
 .dark h1#profile_title { color: #fff; }
